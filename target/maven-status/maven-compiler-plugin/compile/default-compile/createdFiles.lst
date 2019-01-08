@@ -1,0 +1,6 @@
+org\ayan\rest\controller\SpringRestController.class
+org\ayan\rest\SpringRestApp.class
+org\ayan\rest\service\BookService.class
+org\ayan\rest\dao\BookDAO.class
+org\ayan\rest\dto\Book.class
+org\ayan\rest\dto\BookRowMapper.class
